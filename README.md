@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi , this is [Mary526](https://github.com/Mary526) 👋
 
-nice 2 meet u
+nice to meet u
 
 <!--
 **Mary526/Mary526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
